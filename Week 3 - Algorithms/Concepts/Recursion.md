@@ -56,6 +56,7 @@ It's just a single hash sign.
 
 Check out the code snippets of week 3 to maybe understand a bit better what is a recursive algorithm and what is an iterative algorithm.
 
+[Explanation Video](https://youtu.be/iCx3zwK8Ms8?t=6085)
 
 
 
