@@ -97,9 +97,11 @@ Now, we return to where we left off in the pseudocode now that the left side has
 36|14
 ```
  Both halves are now sorted. Finally, the algorithm will merge both sides. It will look at the first number on the left and the first number on the right. It will put the smaller number first, then the second smallest. The algorithm will repeat this for all numbers, resulting in:
-    ```
+
 ```
 1346
 ```
 Merge sort is complete, and the program quits.
 Merge sort is a very efficient sort algorithm.
+
+[Explanation Video](https://youtu.be/iCx3zwK8Ms8?t=6916)
