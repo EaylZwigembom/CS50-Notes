@@ -1,6 +1,6 @@
 #C #Strings
 
-A string is a sequence of characters stored in a variable. In C there is not really a type called string([[Week 4 - Memory/Concepts/Strings|Strings]]), so to make strings you use arrays of chars:
+A string is a sequence of characters stored in a variable. In C there is not really a type called string([[Memory#^strings]]), so to make strings you use arrays of chars:
 
 ```
 #include <stdio.h>

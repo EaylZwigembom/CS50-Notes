@@ -79,6 +79,8 @@ The `*` declares a **pointer** only when you define a variable.
 
 
 #### **Strings**
+^strings
+
 Now that we have a mental model for pointers, we can peel back a level of simplification that was offered earlier in this course.
 Modify your code as follows:
 ```
@@ -103,7 +105,7 @@ However, what is `s` really? Where is the `s` stored in memory? As you can i
 
 ![Same string HI with a pointer pointing to it](https://cs50.harvard.edu/x/notes/4/cs50Week4Slide086.png "hi pointer")
 
-Notice how a pointer called `s` tells the compiler where the first byte of the string exists in memory.
+Notice that `s` tells the computer where the string starts, and when you print a string there is a loop that just goes over each character until it reaches the `NUL` character in the last index of the string([[Strings]]).
 
 Modify your code as follows:
 ```
@@ -158,6 +160,8 @@ int main(void)
 
 Notice that `cs50.h` is removed. A string is implemented as a `char *`.
 You can imagine how a string, as a data type, is created.
-Last week, we learned how to create your own data type as a struct.
+Last week, we learned how to create your own data type as a struct ([[Structs]]).
 The cs50 library includes a struct as follows: `typedef char *string`
 This struct, when using the cs50 library, allows one to use a custom data type called `string`.
+
+for another example let's say you always get confused by the int keyword. So you want to create a variable that acts like an int but with a more user friendly name. So you can do that as follows:`typedef int integer`
