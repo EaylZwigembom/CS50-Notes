@@ -24,3 +24,6 @@ void draw(int height)
     }
 }
 ```
+
+
+[[Algorithms]]

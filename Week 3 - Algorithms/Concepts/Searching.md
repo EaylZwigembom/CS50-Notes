@@ -9,6 +9,7 @@ The input is some kind of an array or a variable that there is a piece of data i
 Because a computer can't look at all of its data slots and find the piece of data it needs it some kind of a way to look for the data. One of the ways is:
 
 #### **Linear Search**
+^linear-search
 
 Linear searching is basically just meaning that the computer goes through each slot of data it has in an array until it finds the piece of data it wants. Let's take a look at this array of numbers:
 
@@ -60,6 +61,7 @@ Notice that the code also checks if there are no doors left and if so that means
 
 
 ### **Running Time**
+^big-O
 
 Go to [[Algorithms#^big-o]]
 

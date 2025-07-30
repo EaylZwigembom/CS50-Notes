@@ -72,3 +72,8 @@ ok, that function I called just returned so I can move on to the for loop:
 Final Output: 
 ![[Pasted image 20250721111407.png]]
 
+
+
+
+[[Recursion]]
+[[Algorithms]]

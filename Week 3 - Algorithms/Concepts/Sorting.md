@@ -4,6 +4,7 @@ If you want to use search methods like Binary Search
 There are a couple of methods of sorting:
 
 #### **Selection Sort**
+^selection-sort
 
 Selection sort is a method of sorting that goes like that:
 
@@ -25,6 +26,7 @@ Note that this method finds the smallest number it found not by comparing it  to
 
 
 #### **Bubble Sort**
+^bubble-sort
 
 Bubble sort is another sorting algorithm and it goes like that:
 
@@ -45,7 +47,10 @@ Repeat n-1 times
 Note that it's n-2 and not n-1 so when reaching the last index the algorithm won't go out of bounds.
 
 [Explanation Video](https://youtu.be/iCx3zwK8Ms8?t=4105)
+
+
 #### **Merge Sort**
+^merge-sort
 
 
 We can now leverage recursion in our quest for a more efficient sort algorithm and implement what is called _merge sort_, a very efficient sort algorithm.
