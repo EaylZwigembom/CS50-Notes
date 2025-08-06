@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3 - Algorithms/Concepts/Sorting.md",
+                "file": "Week 4 - Memory/Concepts/Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting"
+              "title": "Memory"
             }
           },
           {
@@ -258,6 +258,19 @@
   },
   "active": "e97384cc0f30a8e2",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "Week 3 - Algorithms/Concepts/Searching.md",
+    "Week 3 - Algorithms/Concepts/Sorting.md",
+    "Week 3 - Algorithms/Concepts/Structs.md",
+    "Week 3 - Algorithms/Concepts/Recursion.md",
+    "Week 2 - Arrays/Concepts/Strings.md",
+    "Week 2 - Arrays/Concepts/Encryption.md",
+    "Week 2 - Arrays/Concepts/Debugging.md",
+    "Week 2 - Arrays/Concepts/Compiling.md",
+    "Week 4 - Memory/Concepts/Memory.md",
+    "Week 4 - Memory/Concepts/Hexadecimal.md",
+>>>>>>> 271ef79c4b072c7680b5ef03804e997f99bf7869
     "Week 4 - Memory/Code Snippets/adresses.c.md",
     "Week 4 - Memory/Concepts/Hexadecimal.md",
     "Week 4 - Memory/Code Snippets/addresses.c.md",
@@ -294,11 +307,32 @@
     "Images/Pasted image 20250720105219.png",
     "Images/Pasted image 20250720105101.png",
     "Images/Pasted image 20250720104609.png",
+<<<<<<< HEAD
     "Images/Pasted image 20250716152105.png",
     "Images/Pasted image 20250616062954.png",
     "Images/Pasted image 20250619160349.png",
     "Images/Pasted image 20250619152207.png",
     "Week 3 - Algorithms/Code Snippets",
+=======
+    "CS50-Notes",
+    "Week 3 - Algorithms/Concepts/Iteration.md",
+    "Week 2 - Arrays/Code Snippets/length.c.md",
+    "Daily To-Do.md",
+    "Week 2 - Arrays/Concepts/Arrays.md",
+    "Week 0 - Scratch/Concepts/Algorithms.md",
+    "Week 3 - Algorithms/Week 3 Notes.md",
+    "Pasted image 20250720105219.png",
+    "Pasted image 20250720105101.png",
+    "Pasted image 20250720104609.png",
+    "Images/Pasted image 20250716152105.png",
+    "Week 3 - Algorithms/Concepts/Asymptotic Notation.md",
+    "Week 3 - Algorithms/Concepts/Merge Sort.md",
+    "Week 3 - Algorithms/Concepts/Selection Sort.md",
+    "Week 3 - Algorithms/Concepts/Bubble Sort.md",
+    "Week 3 - Algorithms/Concepts/Binary Search.md",
+    "Week 3 - Algorithms/Concepts/Linear Search.md",
+    "Week 3/Concepts/Arrays.md",
+>>>>>>> 271ef79c4b072c7680b5ef03804e997f99bf7869
     "Week 3 - Algorithms/Concepts",
     "Week 3 - Algorithms",
     "Images",
