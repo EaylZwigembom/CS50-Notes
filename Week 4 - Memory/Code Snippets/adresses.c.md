@@ -1,3 +1,5 @@
+#C #code-snippet 
+
 ```
 #include <stdio.h>
 

@@ -1,0 +1,112 @@
+#python
+
+In C, you might remember a program like this:
+```
+    // Conditionals, Boolean expressions, relational operators
+    
+    #include <cs50.h>
+    #include <stdio.h>
+    
+    int main(void)
+    {
+        // Prompt user for integers
+        int x = get_int("What's x? ");
+        int y = get_int("What's y? ");
+    
+        // Compare integers
+        if (x < y)
+        {
+            printf("x is less than y\n");
+        }
+        else if (x > y)
+        {
+            printf("x is greater than y\n");
+        }
+        else
+        {
+            printf("x is equal to y\n");
+        }
+    }
+```
+
+In Python, it would appear as follows:
+```
+# Conditionals, Boolean expressions, relational operators
+    
+    from cs50 import get_int
+    
+    # Prompt user for integers
+    x = get_int("What's x? ")
+    y = get_int("What's y? ")
+    
+    # Compare integers
+    if x < y:
+        print("x is less than y")
+    elif x > y:
+        print("x is greater than y")
+    else:
+        print("x is equal to y")
+```
+
+Notice that there are no more curly braces. Instead, indentations are utilized. Second, a colon is utilized in the `if` statement. Further, `elif` replaces `else if`. Parentheses are also no longer required in the `if` and `elif` statements.
+
+Further looking at comparisons, consider the following code in C:
+
+```
+    // Logical operators
+    
+    #include <cs50.h>
+    #include <stdio.h>
+    
+    int main(void)
+    {
+        // Prompt user to agree
+        char c = get_char("Do you agree? ");
+    
+        // Check whether agreed
+        if (c == 'Y' || c == 'y')
+        {
+            printf("Agreed.\n");
+        }
+        else if (c == 'N' || c == 'n')
+        {
+            printf("Not agreed.\n");
+        }
+    }
+```
+
+The above can be implemented as follows:
+```
+# Logical operators
+    
+    from cs50 import get_string
+    
+    # Prompt user to agree
+    s = get_string("Do you agree? ")
+    
+    # Check whether agreed
+    if s == "Y" or s == "y":
+        print("Agreed.")
+    elif s == "N" or s == "n":
+        print("Not agreed.")
+```
+
+Notice that the two vertical bars utilized in C is replaced with `or`. Indeed, people often enjoy Python because it is more readable by humans. Also, notice that `char` does not exist in Python. Instead, `str`s are utilized.
+
+Another approach to this same code could be as follows using __lists__:
+```
+    # Logical operators, using lists
+    
+    from cs50 import get_string
+    
+    # Prompt user to agree
+    s = get_string("Do you agree? ")
+    
+    # Check whether agreed
+    if s in ["y", "yes"]:
+        print("Agreed.")
+    elif s in ["n", "no"]:
+        print("Not agreed.")
+```
+
+Notice how we are able to express multiple keywords like `y` and `yes` in a `list`.
