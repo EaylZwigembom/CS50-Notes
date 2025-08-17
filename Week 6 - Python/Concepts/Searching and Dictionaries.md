@@ -43,7 +43,7 @@ However, we don’t need to iterate through a list. In Python, we can execute li
 Notice how `in` is used to implement linear search.
 Still, this code could be improved.
 
-Recall that a _dictionary_ or `dict` is a collection of _key_ and __value__ pairs.
+Recall that a _dictionary_ or `dict` is a collection of __key__ and __value__ pairs.
 
 You can implement a dictionary in Python as follows: 
 ```

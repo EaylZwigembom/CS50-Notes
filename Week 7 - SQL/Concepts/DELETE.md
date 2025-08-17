@@ -1,0 +1,1 @@
+`   DELETE` allows you to delete parts of your data. For example, you could `DELETE FROM favorites WHERE Timestamp IS NULL;`This deletes any record where the `Timestamp` is `NULL`.
