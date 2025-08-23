@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.ext != "png"
+    - '!file.path.contains("Code Snippets")'
+views:
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.path
+        direction: ASC
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.folder
+        direction: ASC
+    imageFit: ""
+    cardSize: 270

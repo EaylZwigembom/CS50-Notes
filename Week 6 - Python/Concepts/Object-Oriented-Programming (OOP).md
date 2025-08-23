@@ -2,7 +2,7 @@
 
 It’s possible to have certain types of values not only have properties or attributes inside of them but have functions as well. In Python, these values are known as __objects__
 
-In C, we could create a `struct` where you could associate multiple variables inside a single self-created data type. In Python, we can do this and also include functions in a self-created data type. When a function belongs to a specific __object__, it is known as a __method__.
+In C, we could create a [[Structs|struct]] where you could associate multiple variables inside a single self-created data type. In Python, we can do this and also include functions in a self-created data type. When a function belongs to a specific __object__, it is known as a __method__.
  
 For example, `strs` in Python have built-in __methods__. Therefore, you could modify your code as follows:
 ```
@@ -20,7 +20,7 @@ For example, `strs` in Python have built-in __methods__. Therefore, you could
 
 Notice how the old value of `s` is overwritten with the result of `s.lower()`, a built-in method of `strs`.
 
-Similarly, you may recall how we copied a string in C:
+Similarly, you may recall how we [[Memory#^copying-and-malloc|copied a string]] in C:
 ```
     // Capitalizes a copy of a string without memory errors
     

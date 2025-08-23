@@ -21,7 +21,7 @@ Consider a program called `phonebook.py` as follows:
         print("Not found")
 ```
 
-Notice how this implements linear search for each name.
+Notice how this implements [[Searching#^linear-search|linear search]] for each name.
 
 However, we don’t need to iterate through a list. In Python, we can execute linear search as follows:
 ```
@@ -89,7 +89,7 @@ Even better, strictly speaking, we don’t need both a `name` and a `number`. 
         print("Not found")
 ```
 
-Notice that the dictionary is implemented using curly braces. Then, the statement `if name in people` searches to see if the `name` is in the `people` dictionary. Further, notice how, in the `print` statement, we can index into the people dictionary using the value of `name`. Very useful!
+Notice that the dictionary is implemented using curly braces. Then, the statement `if name in people` searches to see if the `name` is in the `people` dictionary. Further, notice how, in the `print` statement, we can index into the people dictionary using the value of `name`. Very useful!
 
 Python has done their best to get to __constant time__ using their built-in searches.
 

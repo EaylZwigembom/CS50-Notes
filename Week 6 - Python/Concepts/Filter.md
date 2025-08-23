@@ -29,4 +29,4 @@ Further, you can create a new file called `edges.py` as follows:
 
 Notice that this code is a small adjustment to your `blur` code but produces a dramatically different result.
 
- Python allows you to abstract away programming that would be much more complicated within C and other __lower-level__ programming languages.
+Python allows you to abstract away programming that would be much more complicated within C and other __lower-level__ programming languages.

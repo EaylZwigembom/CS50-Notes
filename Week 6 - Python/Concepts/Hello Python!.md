@@ -6,7 +6,7 @@ Python is a programming language that builds upon what you have already learned 
 
 Python additionally has access to a vast number of user-created libraries.
 
-Unlike in C, which is a __compiled language__, Python is an __interpreted language__, where you need not separately compile your program. Instead, you run your program in the __Python Interpreter__.
+Unlike in C, which is a __[[Compiling|compiled language]]__, Python is an __interpreted language__, where you need not separately compile your program. Instead, you run your program in the __Python Interpreter__.
 
 Up until this point, the code has looked like this:
 
@@ -24,7 +24,6 @@ Up until this point, the code has looked like this:
 Today, you’ll find that the process of writing and compiling code has been simplified.
 
 For example, the above code will be rendered in Python as:
-
 ```
     # A program that says hello to the world
     

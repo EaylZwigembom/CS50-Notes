@@ -46,4 +46,6 @@ Similarly, we can write a dictionary as follows within the CSV file:
         writer.writerow({"name": name, "number": number})
 ```
 
-Notice this code is quite similar to our prior iteration but with `csv.DictWriter` instead.
+Notice this code is quite similar to our prior iteration but with `csv.DictWriter` instead.
+
+Notice how much simpler it is than [[Memory#^file-i-o|FILE I/O in C]]

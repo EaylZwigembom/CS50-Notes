@@ -7,7 +7,7 @@ Similar to previous uses of the CS50 Library, this library will assist with the 
 
 You can read more about the CS50 Library’s SQL functionality in the [documentation](https://cs50.readthedocs.io/libraries/cs50/python/#cs50.SQL).
 
-Using our new knowledge of SQL, we can now leverage Python alongside.
+Using our new knowledge of SQL, we can now leverage[[Hello Python! | Python]] alongside.
 
 Modify your code for `favorites.py` as follows:
 ```

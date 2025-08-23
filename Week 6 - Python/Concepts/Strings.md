@@ -24,7 +24,7 @@ This code is transformed in Python to:
     print("hello, " + answer)
 ```
 
-You can write this code by executing `code hello.py` in the terminal window. Then, you can execute this code by running `python hello.py`. Notice how the `+` sign concatenates `"hello, "` and `answer`.
+You can write this code by executing `code hello.py` in the terminal window. Then, you can execute this code by running `python hello.py`. Notice how the `+` sign concatenates `"hello, "` and `answer`.
 
 Similarly, this can be done without concatenation:
 ```

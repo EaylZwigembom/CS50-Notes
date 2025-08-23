@@ -1,0 +1,2 @@
+ 
+In previous weeks, we introduced you to [[Hello Python! |Python]], a high-level programming language that utilized the same building blocks we learned in C. Today, we will extend those building blocks further in HTML, CSS, and JavaScript.

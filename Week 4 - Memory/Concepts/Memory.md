@@ -371,7 +371,6 @@ Notice that the `%s` has been changed to `%p` in the print statement.
 
 A common need in programming is to copy one string to another.
 In your terminal window, type `code copy.c` and write code as follows:
-
 ```
     // Capitalizes a string
     

@@ -1,6 +1,6 @@
 #python
 
-The `sys` library also has built-in methods. We can use `sys.exit(i)` to exit the program with a specific exit code:
+The `sys` library also has built-in methods. We can use `sys.exit(i)` to exit the program with a specific [[Exit Status|exit code]]:
 
 ```
 # Exits with explicit value, importing sys

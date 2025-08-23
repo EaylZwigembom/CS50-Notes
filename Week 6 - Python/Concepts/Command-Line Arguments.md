@@ -1,6 +1,6 @@
 #python
 
-As with C, you can also utilize command-line arguments. Consider the following code:
+As with C, you can also utilize [[Command Line Arguments|command-line arguments]]. Consider the following code:
 ```
 # Prints a command-line argument
     

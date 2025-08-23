@@ -55,6 +55,76 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:\"Week 4 - Memory/Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1491071
+      }
+    },
+    {
+      "query": "path:\"Week 5 - Data Structures/Concepts\"",
+      "color": {
+        "a": 1,
+        "rgb": 12195607
+      }
+    },
+    {
+      "query": "path:\"Week 6 - Python/Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Week 6 - Python/Code Snippets\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Week 7 - SQL/Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Week 7 - SQL/Code Snippets\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Week 8 - Web Developement/Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Week 8 - Web Developement/Code Snippets\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Week 9 - Flask/Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Week 9 - Flask/Code Snippets\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +137,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5359795996225966,
+  "scale": 0.07058167567046753,
   "close": false
 }
